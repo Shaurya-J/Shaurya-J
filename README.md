@@ -6,7 +6,7 @@
 
 📝 I have a strong interest in Artificial Intelligence.
 
-🔭 Working on .NET.
+🔭 Working on .NET and various skill sets.
 
 🌱 Learning about Computer Vision and Machine Learning stuff.
 
